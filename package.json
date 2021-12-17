@@ -1,0 +1,17 @@
+{
+  "name": "yargs-mongo-cli",
+  "version": "1.0.0",
+  "description": "yargs-mongo-cli",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mongoose": "^6.1.1",
+    "yargs": "^17.3.0"
+  }
+}
